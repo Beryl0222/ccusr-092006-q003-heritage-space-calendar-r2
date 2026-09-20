@@ -1,0 +1,8 @@
+[project]
+name = "heritage-space-calendar"
+version = "0.1.0"
+description = "历史街区公共文化排期领域资料"
+requires-python = ">=3.11"
+
+[tool.unittest]
+start-directory = "tests"
