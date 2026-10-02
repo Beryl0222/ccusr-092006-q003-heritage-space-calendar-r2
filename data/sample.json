@@ -1,9 +1,17 @@
 {
-  "event_id": "sample-003-001",
+  "event_id": "sample-space-001-v1",
   "kind": "SPACE_VERSIONED",
   "occurred_at": "2026-09-20T09:00:00+08:00",
-  "subject_id": "demo-003",
+  "subject_id": "demo-yard-003",
   "payload": {
+    "space_id": "demo-yard-003",
+    "version": 1,
+    "name": "三号院（虚构样例）",
+    "zone": "院落",
+    "protection_level": "市级文物保护单位",
+    "capacity": 120,
+    "accessible_route": true,
+    "fire_aisles": ["东门主通道"],
     "note": "虚构资料，仅用于格式核对"
   }
 }
